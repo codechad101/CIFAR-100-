@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model files & large outputs
+*.h5
+*.pkl
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
